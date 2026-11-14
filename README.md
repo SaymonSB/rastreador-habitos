@@ -2,8 +2,8 @@
 
 **Disciplina:** Desenvolvimento de Aplicativos Móveis Avançado
 **Professor:** Renato de Sousa Gomide
-**Curso:** Técnico Integrado em Informática para Internet
-**Aluno:** _seu nome aqui_
+**Curso:** Engenharia da Computação 
+**Aluno:** Saymon Silva Bezerra 
 
 **Atividade:** Bibliotecas de componentes visuais de terceiros
 **Biblioteca escolhida:** [react-native-paper](https://callstack.github.io/react-native-paper)
